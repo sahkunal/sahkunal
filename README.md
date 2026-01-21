@@ -1,5 +1,5 @@
 ## Hi there 👋 
-## I am Kunal 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I am+%2C+Kunal" alt="Typing SVG" /></a>
 
 <!--
 **sahkunal/sahkunal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
