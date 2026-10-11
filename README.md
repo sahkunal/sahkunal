@@ -13,5 +13,5 @@ If you're building on Solana, thinking about trustless protocol design, or want 
 
 🐦 Twitter / X :<https://x.com/sahkunal18>
 
-
+my featured project on turbin3 :<https://x.com/solanaturbine/status/2080675411651104818>
 <div align="center">
